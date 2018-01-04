@@ -1,6 +1,6 @@
 # Welcome!
 
-This Swift template lets you get started quickly with a simple one-page playground.
+This Swift template gives an example of using Collections
 
 ```swift runnable
 print("Hello World!")
